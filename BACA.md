@@ -5,6 +5,7 @@
 
 # Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition
 <strong>Proyek Tunggal: Rumah Pintar dengan Pengenalan Suara Bluetooth</strong><br><br>
+Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat melakukan berbagai macam perintah seperti menyalakan dan mematikan suatu perangkat.
 
 <br><br>
 
