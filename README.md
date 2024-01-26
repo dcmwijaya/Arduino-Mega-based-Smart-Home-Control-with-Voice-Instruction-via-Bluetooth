@@ -104,41 +104,41 @@
          <th width="420">Get</th>
       </tr>
       <tr>
-         <td><p>Nyalakan Alarm</p></td>
+         <td><p>Turn on the Alarm</p></td>
          <td><p>1</p></td>
       </tr>
       <tr>
-         <td><p>Matikan Alarm</p></td>
+         <td><p>Turn off the Alarm</p></td>
          <td><p>2</p></td>
       </tr>
       <tr>
-         <td><p>Nyalakan Kipas</p></td>
+         <td><p>Turn on the Fan</p></td>
          <td><p>3</p></td>
       </tr>
       <tr>
-         <td><p>Matikan Kipas</p></td>
+         <td><p>Turn off the Fan</p></td>
          <td><p>4</p></td>
       </tr>
       
       <tr>
-         <td><p>Nyalakan Lampu</p></td>
+         <td><p>Turn on the Lamp</p></td>
          <td><p>5</p></td>
       </tr>
       <tr>
-         <td><p>Matikan Lampu</p></td>
+         <td><p>Turn off the Lamp</p></td>
          <td><p>6</p></td>
       </tr>
       
       <tr>
-         <td><p>Nyalakan Layar</p></td>
+         <td><p>Turn on the Screen</p></td>
          <td><p>7</p></td>
       </tr>
       <tr>
-         <td><p>Matikan Layar</p></td>
+         <td><p>Turn off the Screen</p></td>
          <td><p>8</p></td>
       </tr>
       <tr>
-         <td><p>Matikan Semua Perangkat</p></td>
+         <td><p>Turn off All Devices</p></td>
          <td><p>9</p></td>
       </tr>
    </table>
