@@ -62,7 +62,26 @@
 <br><br>
 
 ## Arduino IDE Setup
-Coming Soon...
+1. Make sure you have the necessary electronic components.<br><br>
+   
+2. Make sure your components are designed according to the diagram.<br><br>
+   
+3. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` arduinoMega_btvoice.ino ```.<br><br>
+   
+4. ``` Board Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```.<br><br>
+   
+5. ``` Install Library ``` in Arduino IDE<br><br>
+   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+
+6. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+
+7. Before uploading the program please click: ``` Verify ```.<br><br>
+
+8. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+   
+9. Please enjoy [Done].
 
 <br><br>
 
