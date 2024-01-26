@@ -85,7 +85,62 @@
 <br><br>
 
 ## Pengaturan Bluetooth Voice
-Segera hadir...
+1. Buka ponsel cerdas anda, lalu pada ``` Google Play Store ``` cari aplikasi ``` Bluetooth Voice ``` buatan ``` yashx ```, kemudian lakukan instalasi.<br><br>
+
+2. Hidupkan ``` bluetooth ```.<br><br>
+
+3. Cari nama device bluetooth anda -> ``` sandingkan perangkat ``` dengan memasukkan kata sandi: ``` 0000 ``` atau ``` 1234 ```.<br><br>
+
+4. Buka aplikasi ``` Bluetooth Voice ``` -> pilih ``` JDY-31-SPP ```.<br><br>
+
+5. Hapus semua perintah bawaan yang ada.<br><br>
+
+6. Buat perintah baru seperti yang terlihat di bawah ini :
+   
+   <table>
+      <tr>
+         <th width="420">Say</th>
+         <th width="420">Get</th>
+      </tr>
+      <tr>
+         <td><p>Nyalakan Alarm</p></td>
+         <td><p>1</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Alarm</p></td>
+         <td><p>2</p></td>
+      </tr>
+      <tr>
+         <td><p>Nyalakan Kipas</p></td>
+         <td><p>3</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Kipas</p></td>
+         <td><p>4</p></td>
+      </tr>
+      
+      <tr>
+         <td><p>Nyalakan Lampu</p></td>
+         <td><p>5</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Lampu</p></td>
+         <td><p>6</p></td>
+      </tr>
+      
+      <tr>
+         <td><p>Nyalakan Layar</p></td>
+         <td><p>7</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Layar</p></td>
+         <td><p>8</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Semua Perangkat</p></td>
+         <td><p>9</p></td>
+      </tr>
+   </table>
 
 <br><br>
 
