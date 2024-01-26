@@ -5,6 +5,7 @@
 
 # Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition
 <strong>Solo Project: Smart Home with Bluetooth Voice Recognition</strong><br><br>
+This smart home is equipped with bluetooth that allows users to perform various commands such as turning on and off a device.
 
 <br><br>
 
