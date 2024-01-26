@@ -86,7 +86,62 @@
 <br><br>
 
 ## Bluetooth Voice Setup
-Coming Soon...
+1. Open your smartphone, then in the ``` Google Play Store ``` search for the ``` Bluetooth Voice ``` application made by ``` yashx ```, then install it.<br><br>
+
+2. Turn on ``` bluetooth ```.<br><br>
+
+3. Search for your bluetooth device name -> ``` pairing device ``` by entering the password: ``` 0000 ``` or ``` 1234 ```.<br><br>
+
+4. Open ``` Bluetooth Voice ``` app -> select ``` JDY-31-SPP ```.<br><br>
+
+5. Remove all existing built-in commands.<br><br>
+
+6. Create a new command as seen below:
+   
+   <table>
+      <tr>
+         <th width="420">Say</th>
+         <th width="420">Get</th>
+      </tr>
+      <tr>
+         <td><p>Nyalakan Alarm</p></td>
+         <td><p>1</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Alarm</p></td>
+         <td><p>2</p></td>
+      </tr>
+      <tr>
+         <td><p>Nyalakan Kipas</p></td>
+         <td><p>3</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Kipas</p></td>
+         <td><p>4</p></td>
+      </tr>
+      
+      <tr>
+         <td><p>Nyalakan Lampu</p></td>
+         <td><p>5</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Lampu</p></td>
+         <td><p>6</p></td>
+      </tr>
+      
+      <tr>
+         <td><p>Nyalakan Layar</p></td>
+         <td><p>7</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Layar</p></td>
+         <td><p>8</p></td>
+      </tr>
+      <tr>
+         <td><p>Matikan Semua Perangkat</p></td>
+         <td><p>9</p></td>
+      </tr>
+   </table>
 
 <br><br>
 
