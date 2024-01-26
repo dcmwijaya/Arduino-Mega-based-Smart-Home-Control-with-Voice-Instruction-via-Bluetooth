@@ -46,7 +46,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition/assets/54527592/17509fc4-2427-43bb-be07-cb99e14f7b06" alt="Block-Diagram"></td>
 <td><img src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition/assets/54527592/c0d8f18e-1e57-4ce4-b8cf-ef6044f4d656" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
