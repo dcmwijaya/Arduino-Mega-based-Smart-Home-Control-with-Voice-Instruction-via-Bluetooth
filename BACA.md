@@ -61,7 +61,26 @@
 <br><br>
 
 ## Pengaturan Arduino IDE
-Segera hadir...
+1. Pastikan anda memiliki komponen elektronik yang diperlukan.<br><br>
+   
+2. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
+   
+3. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` arduinoMega_btvoice.ino ```.<br><br>
+   
+4. ``` Pengaturan Board ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```.<br><br>
+   
+5. ``` Instal Pustaka ``` di Arduino IDE<br><br>
+   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+
+6. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+
+7. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+
+8. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+   
+9. Selamat menikmati [Selesai].
 
 <br><br>
 
