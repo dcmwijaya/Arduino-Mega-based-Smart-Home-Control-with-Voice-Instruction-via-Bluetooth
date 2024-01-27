@@ -3,8 +3,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition)
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-# Arduino-Mega-based-Smart-Home-Control-with-Bluetooth-Voice-Commands
-<strong>Proyek Tunggal: Kontrol Rumah Pintar berbasis Arduino Mega dengan Perintah Suara Bluetooth</strong><br><br>
+# Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth
+<strong>Proyek Tunggal: Kontrol Rumah Pintar berbasis Arduino Mega dengan Instruksi Suara melalui Bluetooth</strong><br><br>
 Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat melakukan berbagai macam perintah seperti menyalakan dan mematikan suatu perangkat.
 
 <br><br>
