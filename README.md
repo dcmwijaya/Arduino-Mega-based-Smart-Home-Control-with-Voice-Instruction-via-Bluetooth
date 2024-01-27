@@ -3,8 +3,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition)
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-# Arduino-Mega-based-Smart-Home-Control-with-Bluetooth-Voice-Commands
-<strong>Solo Project: Smart Home Control with Bluetooth Voice Commands</strong><br><br>
+# Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth
+<strong>Solo Project: Smart Home Control with Voice Instruction via Bluetooth</strong><br><br>
 This smart home is equipped with bluetooth that allows users to perform various commands such as turning on and off a device.
 
 <br><br>
