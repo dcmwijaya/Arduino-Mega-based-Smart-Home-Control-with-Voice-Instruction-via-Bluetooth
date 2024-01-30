@@ -10,7 +10,7 @@ This smart home is equipped with bluetooth that allows users to perform various 
 <br><br>
 
 ## Project Requirements
-| Media | Description |
+| Part | Description |
 | --- | --- |
 | Development Board | Arduino Mega 2560 |
 | Code Editor | Arduino IDE |
