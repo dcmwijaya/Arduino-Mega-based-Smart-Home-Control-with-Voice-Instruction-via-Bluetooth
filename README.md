@@ -76,9 +76,7 @@ This smart home is equipped with bluetooth that allows users to perform various 
 
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
-6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
-   
-7. Please enjoy [Done].
+6. If there is no error in the program code, then please click: ``` Upload ```.
 
 <br><br>
 
