@@ -76,8 +76,8 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
 6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
-   
-7. Selamat menikmati [Selesai].
+
+7. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
