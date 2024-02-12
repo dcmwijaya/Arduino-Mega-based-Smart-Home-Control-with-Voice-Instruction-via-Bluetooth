@@ -17,25 +17,32 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 | Dukungan Aplikasi | Bluetooth Voice |
 | Driver | USB-Serial CH340 |
 | Bahasa Pemrograman | C/C++ |
-| Aktuator | Kipas DC 5V (x1), LED (x1), Piezoelektrik (x1) |
+| Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
-| Komponen Lainnya | Kabel USB tipe B - USB tipe A (x1), Kabel Jumper (1 set), Adaptor DC 5V (x1), dan Breadboard (x1) |
+| Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1) |
 
 <br><br>
 
 ## Unduh & Instal
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CH340
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CH340_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -62,22 +69,43 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` arduinoMega_btvoice.ino ```.<br><br>
-   
-2. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```.<br><br>
-   
-3. ``` Instal Pustaka ``` di Arduino IDE<br><br>
-   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` : 
 
-4. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+   <table><tr><td width="810">
+   
+      ``` arduinoMega_btvoice.ino ```
+
+   </td></tr></table><br>
+   
+2. ``` Pengaturan Board ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
+
+   </td></tr></table><br>
+   
+3. ``` Instal Pustaka ``` di Arduino IDE
+
+   <table><tr><td width="810">
+
+      Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
+
+   </td></tr></table><br>
+
+4. ``` Pengaturan Port ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
+
+   </td></tr></table><br>
 
 5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
 6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-7. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+7. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
