@@ -17,10 +17,10 @@ This smart home is equipped with bluetooth that allows users to perform various 
 | Application Support | Bluetooth Voice |
 | Driver | USB-Serial CH340 |
 | Programming Language | C/C++ |
-| Actuators | Fan DC 5V (x1), LED (x1), Piezoelectric (x1) |
+| Actuators | • Fan DC 5V (x1)<br>• LED (x1)<br>• Piezoelectric (x1) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
 | Display | LCD I2C (x1) |
-| Other Components | USB type B cable - USB type A (x1), Jumper cable (1 set), Adaptor DC 5V (x1), and Breadboard (x1) |
+| Other Components | • USB type B cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1) |
 
 <br><br>
 
