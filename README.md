@@ -81,11 +81,18 @@ This smart home is equipped with bluetooth that allows users to perform various 
    
 2. ``` Board Setup ``` in Arduino IDE
 
-   <table><tr><td width="810">
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` Arduino Mega 2560 ``` board
+            
+      </th></tr>
+      <tr><td>
          
       Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
 
-   </td></tr></table><br>
+      </td></tr>
+   </table><br>
    
 3. ``` Install Library ``` in Arduino IDE
 
