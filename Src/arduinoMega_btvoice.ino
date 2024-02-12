@@ -1,8 +1,5 @@
 #include <SoftwareSerial.h> 
-#include <LiquidCrystal_I2C.h>
-
 SoftwareSerial BT(0,1);
-LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define alarm_relay 11
 #define fan_relay 10
@@ -16,7 +13,6 @@ int relayOFF = LOW;
 void setup(){
   Serial.begin(9600);
   BT.begin(9600);
-  lcd.init();
   pinMode(alarm_relay, OUTPUT);
   pinMode(fan_relay, OUTPUT);
   pinMode(lamp_relay, OUTPUT);
@@ -50,7 +46,6 @@ void loop(){
     }
     else if(bluetooth_data == '7'){
       digitalWrite(monitor_relay, relayON);
-      lcd.backlight(); 
     }
     else if(bluetooth_data == '8'){      
       digitalWrite(monitor_relay, relayOFF);
