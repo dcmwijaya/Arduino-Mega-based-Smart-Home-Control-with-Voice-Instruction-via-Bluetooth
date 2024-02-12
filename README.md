@@ -28,16 +28,23 @@ This smart home is equipped with bluetooth that allows users to perform various 
 ## Download & Install
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
 
+   </td></tr></table><br>
+   
 2. USB-Serial CH340
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CH340_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -64,16 +71,37 @@ This smart home is equipped with bluetooth that allows users to perform various 
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` arduinoMega_btvoice.ino ```.<br><br>
-   
-2. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```.<br><br>
-   
-3. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` : 
 
-4. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+   <table><tr><td width="810">
+      
+      ``` arduinoMega_btvoice.ino ```
+
+   </td></tr></table><br>
+   
+2. ``` Board Setup ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
+
+   </td></tr></table><br>
+   
+3. ``` Install Library ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
+
+   </td></tr></table><br>
+
+4. ``` Port Setup ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
+
+   </td></tr></table><br>
 
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
@@ -157,7 +185,7 @@ This smart home is equipped with bluetooth that allows users to perform various 
 <br><br>
 
 ## Highlights
-<img src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition/assets/54527592/8a535f76-e5c3-4449-8c13-7a826dceee7f" alt="smart_home_btvoice">
+<img width="840" src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition/assets/54527592/8a535f76-e5c3-4449-8c13-7a826dceee7f" alt="smart_home_btvoice">
 
 <br><br>
 
