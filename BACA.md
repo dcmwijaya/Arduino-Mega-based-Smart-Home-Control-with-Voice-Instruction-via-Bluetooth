@@ -81,11 +81,18 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
    
 2. ``` Pengaturan Board ``` di Arduino IDE
 
-   <table><tr><td width="810">
+   <table>
+      <tr><th width="810">
+
+      Cara mengatur board ``` Arduino Mega 2560 ```
+            
+      </th></tr>
+      <tr><td>
       
       Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
 
-   </td></tr></table><br>
+      </td></tr>
+   </table><br>
    
 3. ``` Instal Pustaka ``` di Arduino IDE
 
