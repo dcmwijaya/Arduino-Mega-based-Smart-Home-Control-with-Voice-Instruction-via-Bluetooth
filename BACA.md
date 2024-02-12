@@ -20,6 +20,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 | Pustaka Arduino | • SoftwareSerial<br>• LiquidCrystal_I2C |
 | Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
+| Layar | LCD I2C (x1) |
 | Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1) |
 
 <br><br>
