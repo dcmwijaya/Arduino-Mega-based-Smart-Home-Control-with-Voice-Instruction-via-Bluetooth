@@ -98,7 +98,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 
    <table><tr><td width="810">
       
-      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat anda ``` (anda dapat melihatnya di Device Manager) ```
 
    </td></tr></table><br>
 
