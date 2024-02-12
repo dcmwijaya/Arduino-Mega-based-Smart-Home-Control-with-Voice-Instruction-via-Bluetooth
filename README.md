@@ -129,7 +129,7 @@ This smart home is equipped with bluetooth that allows users to perform various 
 
 5. Remove all existing built-in commands.<br><br>
 
-6. Create a new command as seen below:
+6. Create a new command as seen below :
    
    <table>
       <tr>
