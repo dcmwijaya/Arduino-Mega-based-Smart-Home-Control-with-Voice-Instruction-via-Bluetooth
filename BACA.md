@@ -17,7 +17,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 | Dukungan Aplikasi | Bluetooth Voice |
 | Driver | USB-Serial CH340 |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • SoftwareSerial<br>• LiquidCrystal_I2C |
+| Pustaka Arduino | • SoftwareSerial<br>• LiquidCrystal I2C |
 | Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
 | Layar | LCD I2C (x1) |
