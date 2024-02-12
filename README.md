@@ -64,7 +64,7 @@ This smart home is equipped with bluetooth that allows users to perform various 
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth/assets/54527592/d5fbbff4-1c37-4cd6-81f6-98d948dc44ff" alt="Wiring"></td>
+<td><img width="840" src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth/assets/54527592/1a4334a9-68c3-4e8d-a513-b8db727fe57a" alt="Wiring"></td>
 </tr>
 </table>
 
