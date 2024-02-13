@@ -16,6 +16,7 @@ This smart home is equipped with bluetooth that allows users to perform various 
 | Code Editor | Arduino IDE |
 | Application Support | Bluetooth Voice |
 | Driver | USB-Serial CH340 |
+| Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | Programming Language | C/C++ |
 | Arduino Library | SoftwareSerial |
 | Actuators | • Fan DC 5V (x1)<br>• LED (x1)<br>• Piezoelectric (x1) |
