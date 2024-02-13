@@ -16,6 +16,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 | Editor Kode | Arduino IDE |
 | Dukungan Aplikasi | Bluetooth Voice |
 | Driver | USB-Serial CH340 |
+| Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | SoftwareSerial |
 | Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
