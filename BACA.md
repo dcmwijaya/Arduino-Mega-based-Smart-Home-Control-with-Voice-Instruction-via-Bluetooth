@@ -18,7 +18,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 | Driver | USB-Serial CH340 |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | SoftwareSerial |
+| Pustaka Arduino | SoftwareSerial (bawaan) |
 | Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
 | Layar | LCD I2C (x1) |
