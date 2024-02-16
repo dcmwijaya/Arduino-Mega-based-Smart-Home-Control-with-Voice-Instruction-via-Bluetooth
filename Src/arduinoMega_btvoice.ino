@@ -1,6 +1,3 @@
-#include <SoftwareSerial.h> 
-SoftwareSerial BT(0,1);
-
 #define alarm_relay 11
 #define fan_relay 10
 #define lamp_relay 9
@@ -12,7 +9,6 @@ int relayOFF = LOW;
       
 void setup(){
   Serial.begin(9600);
-  BT.begin(9600);
   pinMode(alarm_relay, OUTPUT);
   pinMode(fan_relay, OUTPUT);
   pinMode(lamp_relay, OUTPUT);
