@@ -18,7 +18,6 @@ This smart home is equipped with bluetooth that allows users to perform various 
 | Driver | USB-Serial CH340 |
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | Programming Language | C/C++ |
-| Arduino Library | SoftwareSerial (default) |
 | Actuators | • Fan DC 5V (x1)<br>• LED (x1)<br>• Piezoelectric (x1) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
 | Display | LCD I2C (x1) |
