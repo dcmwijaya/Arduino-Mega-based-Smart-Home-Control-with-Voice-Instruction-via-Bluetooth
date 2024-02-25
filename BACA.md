@@ -70,6 +70,11 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 
 <br><br>
 
+## Pengetahuan Dasar
+Secara umum, kita bisa membuat suatu perangkat yang dapat berkomunikasi dengan perangkat lainnya. Komunikasi yang sering digunakan adalah ``` Komunikasi Serial ```. Ada dua macam komunikasi serial, yaitu ``` Hardware Serial ``` dan ``` Software Serial ```. Adapun proyek ini mengedepankan ``` Hardware Serial ``` sebagai sarana komunikasinya. ``` Komunikasi Hardware Serial ``` dapat dilakukan dengan menghubungkan pin ``` TX ``` dan pin ``` RX ``` secara ``` menyilang ``` pada masing-masing papan pengembangan, misalnya: ``` RX-TX ```, kemudian ``` TX-RX ```. Pin ``` TX ``` yaitu untuk ``` mengirim data ```, sedangkan pin ``` RX ``` yaitu untuk ``` menerima data ```.
+
+<br><br>
+
 ## Pengaturan Arduino IDE
 1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik ``` File ``` -> ``` Open ``` : 
 
