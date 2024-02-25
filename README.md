@@ -71,7 +71,6 @@ This smart home is equipped with bluetooth that allows users to perform various 
 <br><br>
 
 ## Basic Knowledge
-
 In general, we can make a device communicate with another device. Communication that is often used is using ``` Serial Communication ```. There are two kinds of serial communication, namely ``` Hardware Serial ``` and ``` Software Serial ```. The author in this project applies ``` Hardware Serial ``` as a means of communication between devices by connecting the ``` TX ``` and ``` RX ``` pins ``` crosswise ``` on each development board, for example: ``` RX-TX ```, then ``` TX-RX ```. The ``` TX ``` pin is for ``` sending data ```, while the ``` RX ``` pin is for ``` receiving data ```.
 
 <br><br>
