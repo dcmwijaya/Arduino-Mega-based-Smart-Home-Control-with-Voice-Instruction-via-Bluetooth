@@ -5,7 +5,7 @@
 
 # Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth
 <strong>Proyek Tunggal: Kontrol Rumah Pintar berbasis Arduino Mega dengan Instruksi Suara melalui Bluetooth</strong><br><br>
-Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat melakukan berbagai macam perintah seperti menyalakan dan mematikan suatu perangkat.
+Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat melakukan berbagai macam perintah seperti menyalakan dan mematikan suatu perangkat. Adapun proyek ini lebih mengedepankan UART: Hardware Serial sebagai sarana komunikasinya.
 
 <br><br>
 
@@ -71,7 +71,7 @@ Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat me
 <br><br>
 
 ## Pengetahuan Dasar
-Secara umum, kita bisa membuat suatu perangkat yang dapat berkomunikasi dengan perangkat lainnya. Komunikasi yang sering digunakan adalah ``` Komunikasi Serial ```. Ada dua macam komunikasi serial, yaitu ``` Hardware Serial ``` dan ``` Software Serial ```. Adapun proyek ini mengedepankan ``` Hardware Serial ``` sebagai sarana komunikasinya. ``` Komunikasi Hardware Serial ``` dapat dilakukan dengan menghubungkan pin ``` TX ``` dan pin ``` RX ``` secara ``` menyilang ``` pada masing-masing papan pengembangan, misalnya: ``` RX-TX ```, kemudian ``` TX-RX ```. Pin ``` TX ``` yaitu untuk ``` mengirim data ```, sedangkan pin ``` RX ``` yaitu untuk ``` menerima data ```.
+Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain baik secara nirkabel maupun dengan kabel. Komunikasi antar perangkat keras yang umum digunakan salah satunya adalah ``` Komunikasi Serial ```. Dapat diketahui bersama bahwa ``` Komunikasi Serial ``` ini ada tiga jenis, yaitu meliputi: ``` UART (Universal Asynchronous Receiver-Transmitter) ```, ``` SPI (Serial Peripheral Interface) ```, dan ``` I2C (Inter Integrated Circuit) ```. Ada dua macam ``` Komunikasi Serial UART ```, yaitu ``` Hardware Serial ``` dan ``` Software Serial ```.  ``` Komunikasi Hardware Serial ``` dapat dilakukan dengan cara menghubungkan pin ``` TX ``` dan pin ``` RX ``` secara ``` menyilang ``` pada masing-masing papan pengembangan, misalnya: ``` RX-TX ```, kemudian ``` TX-RX ```. Pin ``` TX ``` yaitu untuk ``` mengirim data ```, sedangkan pin ``` RX ``` yaitu untuk ``` menerima data ```. ``` Komunikasi Software Serial ``` ini kurang lebih sama dengan ``` Komunikasi Hardware Serial ``` dalam segi pengkabelan, namun ada perbedaan dalam segi pengkodean. Dengan menggunakan ``` Software Serial ``` inilah anda dapat mengatasi kendala keterbatasan pin ``` RX ``` dan ``` TX ``` yang ada di papan pengembangan. Untuk berkomunikasi dengan ``` Software Serial ``` ini cukup mudah, yaitu dengan menggunakan ``` Pin Digital ``` tertentu sebagai ``` pengganti pin TX dan pin RX ```.
 
 <br><br>
 
