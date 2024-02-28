@@ -5,7 +5,7 @@
 
 # Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth
 <strong>Proyek Tunggal: Kontrol Rumah Pintar berbasis Arduino Mega dengan Instruksi Suara melalui Bluetooth</strong><br><br>
-Rumah pintar ini dilengkapi dengan bluetooth yang memungkinkan pengguna dapat melakukan berbagai macam perintah seperti menyalakan dan mematikan suatu perangkat. Adapun proyek ini lebih mengedepankan UART: Hardware Serial sebagai sarana komunikasinya.
+Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi tinggi, sehingga untuk mematikan / menyalakan perangkat itu harus dilakukan secara manual. Hal ini tidak efisien karena dianggap boros waktu dan tenaga. Oleh karena itu, proyek ini dibuat untuk dapat menyelesaikan permasalahan tersebut hanya dengan perintah suara. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Sistem ini dilengkapi dengan bluetooth, yang memungkinkan pengguna dapat melakukan perintah dasar seperti menyalakan / mematikan perangkat. Dalam hal ini, perangkat yang dimaksud meliputi: alarm, kipas, lampu, dan layar. Protokol komunikasi UART digunakan sebagai media untuk pertukaran data antara Bluetooth dengan board Arduino Mega. Sedangkan jenis UART yang dipakai berupa Hardware Serial. Manfaat dari proyek ini yaitu masyarakat luas dapat mengetahui bagaimana cara membuat smart home yang baik. Hasil dari proyek ini adalah prototipe dengan rangkaian DC.
 
 <br><br>
 
