@@ -202,6 +202,11 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 <br><br>
 
+## Appreciation
+If you find this work useful, please support this work as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+
+<br><br>
+
 ## LICENSE
 MIT License - Copyright © 2024 - Devan C. M. Wijaya, S.Kom
 
