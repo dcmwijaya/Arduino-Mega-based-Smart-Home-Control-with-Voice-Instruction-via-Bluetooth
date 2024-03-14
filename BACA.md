@@ -100,15 +100,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
       </td></tr>
    </table><br>
    
-3. ``` Instal Pustaka ``` di Arduino IDE
-
-   <table><tr><td width="810">
-
-      Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
-
-   </td></tr></table><br>
-
-4. ``` Pengaturan Port ``` di Arduino IDE
+3. ``` Pengaturan Port ``` di Arduino IDE
 
    <table><tr><td width="810">
       
@@ -116,11 +108,11 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    </td></tr></table><br>
 
-5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+4. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+5. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-7. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+6. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
