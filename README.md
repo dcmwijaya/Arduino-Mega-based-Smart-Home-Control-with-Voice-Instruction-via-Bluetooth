@@ -100,15 +100,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       </td></tr>
    </table><br>
    
-3. ``` Install Library ``` in Arduino IDE
-
-   <table><tr><td width="810">
-         
-      Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
-
-   </td></tr></table><br>
-
-4. ``` Port Setup ``` in Arduino IDE
+3. ``` Port Setup ``` in Arduino IDE
 
    <table><tr><td width="810">
          
@@ -116,11 +108,11 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
 
-5. Before uploading the program please click: ``` Verify ```.<br><br>
+4. Before uploading the program please click: ``` Verify ```.<br><br>
 
-6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+5. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+6. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
