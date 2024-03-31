@@ -4,8 +4,7 @@
 #define monitor_relay 8
 
 char bluetooth_data;  
-int relayON = HIGH;
-int relayOFF = LOW;
+bool relayON = HIGH; bool relayOFF = LOW; // Jika anda menggunakan NO pada relay maka yang terjadi adalah Active Low, sedangkan jika anda menggunakan NC pada relay maka yang terjadi adalah Active High
       
 void setup(){
   Serial.begin(9600);
