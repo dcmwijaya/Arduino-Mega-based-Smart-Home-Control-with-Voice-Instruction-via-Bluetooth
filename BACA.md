@@ -15,7 +15,7 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
 | Papan Pengembangan | Arduino Mega 2560 |
 | Editor Kode | Arduino IDE |
 | Dukungan Aplikasi | Bluetooth Voice |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
@@ -32,17 +32,17 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
 
    </td></tr></table>
