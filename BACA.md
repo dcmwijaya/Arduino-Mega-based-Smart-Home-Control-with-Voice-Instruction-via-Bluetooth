@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition)
-![Project](https://img.shields.io/badge/Project-Internet%20of%20Things-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth
 <strong>Proyek Tunggal: Kontrol Rumah Pintar berbasis Arduino Mega dengan Instruksi Suara melalui Bluetooth</strong><br><br>
@@ -56,8 +57,8 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition/assets/54527592/17509fc4-2427-43bb-be07-cb99e14f7b06" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth/assets/54527592/298b132c-626d-4d44-b291-de29ad57c47a" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -65,7 +66,7 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth/assets/54527592/1a4334a9-68c3-4e8d-a513-b8db727fe57a" alt="Wiring"></td>
+<td><img width="840" src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -190,7 +191,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 <br><br>
 
 ## Sorotan
-<img src="https://github.com/devancakra/Arduino-Mega-based-Smart-Home-with-Bluetooth-Voice-Recognition/assets/54527592/8a535f76-e5c3-4449-8c13-7a826dceee7f" alt="smart_home_btvoice">
+<img src="Assets/Documentation/Experiment/Device.jpg" alt="smart_home_btvoice">
 
 <br><br>
 
